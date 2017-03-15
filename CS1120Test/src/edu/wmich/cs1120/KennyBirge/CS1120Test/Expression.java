@@ -5,6 +5,7 @@ public class Expression {
 	//add some comments for test
 	
 	public Expression() {
-		
+		System.out.println("New object created");
 	}
+	
 }
